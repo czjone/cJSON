@@ -1,3 +1,21 @@
+# CJSON的编译用使用 由于 Solyess 添加
+* build
+    * android
+
+    * ios
+
+    * mac
+
+    * windows
+
+    * linux
+
+* demo
+    * luaTable to json
+
+    * json to luaTable
+     
+# 下面是CJSON原始文档
 # cJSON
 
 Ultralightweight JSON parser in ANSI C.
